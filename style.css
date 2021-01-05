@@ -1,0 +1,30 @@
+<style>
+        h1{
+
+            color :chocolate;
+            background-color: rgba(73, 20, 134, 0.712);
+            width: 50%;
+            height: 90;
+        }
+        p{
+
+            color :goldenrod;
+            font-size: 20px;
+            font-weight: 200;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+            #para1{
+                color:cornflowerblue;
+            }
+
+            .friends{
+                border: 1px solid purple;
+                border-radius: 20px;
+                margin: 2px;
+                width: 30%
+                border:fit-content;
+                
+            }
+    </style>
